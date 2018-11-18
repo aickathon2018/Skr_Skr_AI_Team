@@ -14,10 +14,10 @@
   
 # Benefits
 ## Comsumer
--More convenient way to find nearby parking slot
--Save time and petrol
+-More convenient way to find nearby parking slot<br>
+-Save time and petrol<br>
 
 ## Government
--Reduce traffic congestion
--Reduce man power
--Reduce crime rate
+-Reduce traffic congestion<br>
+-Reduce man power<br>
+-Reduce crime rate<br>
